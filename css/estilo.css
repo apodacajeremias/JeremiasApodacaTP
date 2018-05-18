@@ -1,0 +1,54 @@
+body{
+	background: url(op5t_default.jpg);
+}
+#logo{
+	width: 30px;
+	height: 30px;
+}
+#logo2{
+	width: 20px;
+	height: 20px;
+}
+#titulo{
+	font-size: 20px;
+}
+#perfil{
+	border-radius: 50% 50% 50% 50%;
+}
+.circular {
+	width: 200px;
+	height:200px;
+	border-radius:50%;
+}
+
+#arriba{
+	font-size: 50px;
+}
+#aaa{
+	height: 100px;
+}
+#alinear{
+    text-align: right;
+}
+.thumbnail{
+	box-shadow: 5px 5px 5px 5px #888888	
+}
+.well{
+	box-shadow: 5px 5px 5px 5px #888888
+}
+li{
+	font-family: 'Raleway';
+}
+h4{
+	font-family: 'Merriweather';
+}
+p{
+
+	font-family: 'Roboto Condensed';	
+}
+h1{
+	font-family: 'Raleway';
+}
+.centrado{
+    text-align: center;
+}
